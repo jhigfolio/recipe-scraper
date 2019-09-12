@@ -9,15 +9,7 @@ A simple scraper to get around the fluff stuff (and ads!) in the the standard bl
 
 ## Example Usage:
 
-After running this command in your terminal:
-
-<img src="./images/find_recipe.png"
-     alt="find recipe" 
-     width= "35%" 
-     display="block"
-     />
-
-It will ask you what you want to make. We'll say tacos (cause tacos are awesome). The recipe scraper will search google's top results for taco recipes and try to extract just the instructions and ingredients. While it does that it will display the urls it is currently searching, like this: 
+After running ```node findRecipe.js```  in your terminal, it will ask you what you want to make. We'll say tacos (cause tacos are awesome). The recipe scraper will search google's top results for taco recipes and try to extract just the instructions and ingredients. While it does that it will display the urls it is currently searching, like this: 
 
 <img src="./images/recipe_search.png"
      alt="search for recipe" />
@@ -31,7 +23,8 @@ From here, there are a few things you can. Your options are displayed below the 
 
 <img src="./images/recipe_options.png"
      alt="display recipe"
-     width= "50%" />
+     width= "50%" 
+     display="block"/>
 
 You can view another recipe it found if you would like.
 
