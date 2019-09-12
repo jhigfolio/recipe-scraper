@@ -19,7 +19,7 @@ After it is done searching, it will display the first recipe it found.
 <img src="./images/recipe_display.png"
      alt="display recipe" />
 
-From here, there are a few things you can. Your options are displayed below the recipe. 
+From here, there are a few things you can do. Your options are displayed below the recipe. 
 
 <img src="./images/recipe_options.png"
      alt="display recipe"
@@ -33,7 +33,9 @@ Or you can save the recipe to a .txt file by hitting highlighting convert recipe
 <img src="./images/save_recipe.png"
      alt="display recipe" />
 
-Finally, You can search for another recipe. Hope you enjoy!
+Finally, You can search for another recipe. 
+
+Hope you enjoy!
 
 ## License: 
 [MIT](https://choosealicense.com/licenses/mit/)
